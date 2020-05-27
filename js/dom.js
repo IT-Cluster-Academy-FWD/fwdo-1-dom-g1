@@ -1,4 +1,6 @@
-const $button = document.getElementById('cool-button');
+
+
+<li></li>const $button = document.getElementById('cool-button');
 
 $button.setAttribute("class", "btn-main")
 
